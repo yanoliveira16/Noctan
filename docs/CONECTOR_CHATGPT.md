@@ -4,6 +4,8 @@ Com este conector, o ChatGPT (web ou app) usa as ferramentas do seu PC direto: l
 
 Leva uns 15 minutos, uma vez por PC.
 
+> **Uso no dia a dia: você conversa no ChatGPT, não no Noctan.** O Noctan só fica aberto (pode ser minimizado na bandeja) servindo as ferramentas do PC. Não escreva na caixa de mensagem do Noctan: lá a conversa usa a chave de API (OpenAI ou Anthropic) e é cobrada à parte. Os erros `401 insufficient permissions` e `429 no credits remaining` aparecem justamente quando alguém escreve no Noctan sem API paga. Pelo ChatGPT com o conector não há cobrança de API.
+
 ## Como funciona
 
 ```txt

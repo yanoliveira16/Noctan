@@ -13,6 +13,8 @@
   <a href="https://github.com/yanoliveira16/noctan">Código-fonte</a>
 </p>
 
+> **Quer usar o ChatGPT (Plus) no seu PC sem pagar API?** Instale o Noctan, siga o guia [docs/CONECTOR_CHATGPT.md](docs/CONECTOR_CHATGPT.md) e converse **no ChatGPT**, não na caixa de mensagem do Noctan. O Noctan só precisa ficar aberto. Escrever no Noctan usa a chave de API (OpenAI ou Anthropic) e é cobrado à parte.
+
 ## O que é
 
 O Noctan é um aplicativo desktop independente que reúne chat com IA, histórico local, workspaces, arquivos, comandos, agentes e automação do computador em uma única interface.
